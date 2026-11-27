@@ -1,0 +1,217 @@
+geo,category,month,avg_mom_pct
+National Capital Region (NCR),All items (inflation),Jan,0.495
+National Capital Region (NCR),All items (inflation),Feb,0.033
+National Capital Region (NCR),All items (inflation),Mar,0.212
+National Capital Region (NCR),All items (inflation),Apr,0.289
+National Capital Region (NCR),All items (inflation),May,0.023
+National Capital Region (NCR),All items (inflation),Jun,0.251
+National Capital Region (NCR),All items (inflation),Jul,0.453
+National Capital Region (NCR),All items (inflation),Aug,0.551
+National Capital Region (NCR),All items (inflation),Sep,0.258
+National Capital Region (NCR),All items (inflation),Oct,0.346
+National Capital Region (NCR),All items (inflation),Nov,0.562
+National Capital Region (NCR),All items (inflation),Dec,0.275
+National Capital Region (NCR),Rent,Jan,0.287
+National Capital Region (NCR),Rent,Feb,0.483
+National Capital Region (NCR),Rent,Mar,0.247
+National Capital Region (NCR),Rent,Apr,0.18
+National Capital Region (NCR),Rent,May,0.064
+National Capital Region (NCR),Rent,Jun,0.168
+National Capital Region (NCR),Rent,Jul,0.242
+National Capital Region (NCR),Rent,Aug,0.41
+National Capital Region (NCR),Rent,Sep,0.268
+National Capital Region (NCR),Rent,Oct,0.143
+National Capital Region (NCR),Rent,Nov,0.116
+National Capital Region (NCR),Rent,Dec,0.023
+National Capital Region (NCR),Water,Jan,6.784
+National Capital Region (NCR),Water,Feb,0.243
+National Capital Region (NCR),Water,Mar,0.0
+National Capital Region (NCR),Water,Apr,-0.982
+National Capital Region (NCR),Water,May,0.0
+National Capital Region (NCR),Water,Jun,-0.0
+National Capital Region (NCR),Water,Jul,0.096
+National Capital Region (NCR),Water,Aug,0.0
+National Capital Region (NCR),Water,Sep,-0.006
+National Capital Region (NCR),Water,Oct,0.257
+National Capital Region (NCR),Water,Nov,0.062
+National Capital Region (NCR),Water,Dec,0.0
+National Capital Region (NCR),Electricity,Jan,-0.17
+National Capital Region (NCR),Electricity,Feb,1.634
+National Capital Region (NCR),Electricity,Mar,2.03
+National Capital Region (NCR),Electricity,Apr,1.176
+National Capital Region (NCR),Electricity,May,-1.029
+National Capital Region (NCR),Electricity,Jun,-1.278
+National Capital Region (NCR),Electricity,Jul,2.221
+National Capital Region (NCR),Electricity,Aug,-0.538
+National Capital Region (NCR),Electricity,Sep,0.199
+National Capital Region (NCR),Electricity,Oct,0.551
+National Capital Region (NCR),Electricity,Nov,2.063
+National Capital Region (NCR),Electricity,Dec,0.224
+National Capital Region (NCR),Gas (LPG),Jan,2.022
+National Capital Region (NCR),Gas (LPG),Feb,2.032
+National Capital Region (NCR),Gas (LPG),Mar,1.771
+National Capital Region (NCR),Gas (LPG),Apr,2.272
+National Capital Region (NCR),Gas (LPG),May,-0.908
+National Capital Region (NCR),Gas (LPG),Jun,-1.157
+National Capital Region (NCR),Gas (LPG),Jul,-1.192
+National Capital Region (NCR),Gas (LPG),Aug,0.454
+National Capital Region (NCR),Gas (LPG),Sep,1.004
+National Capital Region (NCR),Gas (LPG),Oct,3.001
+National Capital Region (NCR),Gas (LPG),Nov,1.222
+National Capital Region (NCR),Gas (LPG),Dec,-0.04
+National Capital Region (NCR),Internet,Jan,0.025
+National Capital Region (NCR),Internet,Feb,0.009
+National Capital Region (NCR),Internet,Mar,0.007
+National Capital Region (NCR),Internet,Apr,0.024
+National Capital Region (NCR),Internet,May,-0.078
+National Capital Region (NCR),Internet,Jun,0.122
+National Capital Region (NCR),Internet,Jul,0.027
+National Capital Region (NCR),Internet,Aug,-0.003
+National Capital Region (NCR),Internet,Sep,0.011
+National Capital Region (NCR),Internet,Oct,0.033
+National Capital Region (NCR),Internet,Nov,0.05
+National Capital Region (NCR),Internet,Dec,0.124
+National Capital Region (NCR),Appliance repair,Jan,0.136
+National Capital Region (NCR),Appliance repair,Feb,0.288
+National Capital Region (NCR),Appliance repair,Mar,-0.02
+National Capital Region (NCR),Appliance repair,Apr,0.169
+National Capital Region (NCR),Appliance repair,May,0.311
+National Capital Region (NCR),Appliance repair,Jun,0.08
+National Capital Region (NCR),Appliance repair,Jul,0.119
+National Capital Region (NCR),Appliance repair,Aug,0.279
+National Capital Region (NCR),Appliance repair,Sep,0.052
+National Capital Region (NCR),Appliance repair,Oct,0.046
+National Capital Region (NCR),Appliance repair,Nov,0.071
+National Capital Region (NCR),Appliance repair,Dec,0.025
+National Capital Region (NCR),Restock (cleaning),Jan,0.308
+National Capital Region (NCR),Restock (cleaning),Feb,0.345
+National Capital Region (NCR),Restock (cleaning),Mar,0.215
+National Capital Region (NCR),Restock (cleaning),Apr,0.176
+National Capital Region (NCR),Restock (cleaning),May,0.114
+National Capital Region (NCR),Restock (cleaning),Jun,0.188
+National Capital Region (NCR),Restock (cleaning),Jul,0.242
+National Capital Region (NCR),Restock (cleaning),Aug,0.265
+National Capital Region (NCR),Restock (cleaning),Sep,0.081
+National Capital Region (NCR),Restock (cleaning),Oct,0.13
+National Capital Region (NCR),Restock (cleaning),Nov,0.349
+National Capital Region (NCR),Restock (cleaning),Dec,0.195
+National Capital Region (NCR),Courier / delivery,Jan,0.012
+National Capital Region (NCR),Courier / delivery,Feb,0.011
+National Capital Region (NCR),Courier / delivery,Mar,0.0
+National Capital Region (NCR),Courier / delivery,Apr,0.011
+National Capital Region (NCR),Courier / delivery,May,0.042
+National Capital Region (NCR),Courier / delivery,Jun,0.053
+National Capital Region (NCR),Courier / delivery,Jul,0.011
+National Capital Region (NCR),Courier / delivery,Aug,0.0
+National Capital Region (NCR),Courier / delivery,Sep,-0.011
+National Capital Region (NCR),Courier / delivery,Oct,0.337
+National Capital Region (NCR),Courier / delivery,Nov,0.332
+National Capital Region (NCR),Courier / delivery,Dec,0.0
+PHILIPPINES,All items (inflation),Jan,0.817
+PHILIPPINES,All items (inflation),Feb,0.122
+PHILIPPINES,All items (inflation),Mar,0.193
+PHILIPPINES,All items (inflation),Apr,0.368
+PHILIPPINES,All items (inflation),May,0.036
+PHILIPPINES,All items (inflation),Jun,0.219
+PHILIPPINES,All items (inflation),Jul,0.446
+PHILIPPINES,All items (inflation),Aug,0.472
+PHILIPPINES,All items (inflation),Sep,0.376
+PHILIPPINES,All items (inflation),Oct,0.303
+PHILIPPINES,All items (inflation),Nov,0.414
+PHILIPPINES,All items (inflation),Dec,0.377
+PHILIPPINES,Rent,Jan,0.556
+PHILIPPINES,Rent,Feb,0.352
+PHILIPPINES,Rent,Mar,0.18
+PHILIPPINES,Rent,Apr,0.14
+PHILIPPINES,Rent,May,0.123
+PHILIPPINES,Rent,Jun,0.201
+PHILIPPINES,Rent,Jul,0.437
+PHILIPPINES,Rent,Aug,0.298
+PHILIPPINES,Rent,Sep,0.24
+PHILIPPINES,Rent,Oct,0.171
+PHILIPPINES,Rent,Nov,0.146
+PHILIPPINES,Rent,Dec,0.087
+PHILIPPINES,Water,Jan,2.729
+PHILIPPINES,Water,Feb,0.276
+PHILIPPINES,Water,Mar,0.224
+PHILIPPINES,Water,Apr,-0.057
+PHILIPPINES,Water,May,0.246
+PHILIPPINES,Water,Jun,0.261
+PHILIPPINES,Water,Jul,0.158
+PHILIPPINES,Water,Aug,0.085
+PHILIPPINES,Water,Sep,0.026
+PHILIPPINES,Water,Oct,0.244
+PHILIPPINES,Water,Nov,0.177
+PHILIPPINES,Water,Dec,0.089
+PHILIPPINES,Electricity,Jan,-0.017
+PHILIPPINES,Electricity,Feb,0.556
+PHILIPPINES,Electricity,Mar,1.231
+PHILIPPINES,Electricity,Apr,0.852
+PHILIPPINES,Electricity,May,0.138
+PHILIPPINES,Electricity,Jun,-0.894
+PHILIPPINES,Electricity,Jul,1.303
+PHILIPPINES,Electricity,Aug,0.312
+PHILIPPINES,Electricity,Sep,0.34
+PHILIPPINES,Electricity,Oct,0.115
+PHILIPPINES,Electricity,Nov,0.245
+PHILIPPINES,Electricity,Dec,0.534
+PHILIPPINES,Gas (LPG),Jan,1.799
+PHILIPPINES,Gas (LPG),Feb,2.565
+PHILIPPINES,Gas (LPG),Mar,1.172
+PHILIPPINES,Gas (LPG),Apr,2.827
+PHILIPPINES,Gas (LPG),May,-0.985
+PHILIPPINES,Gas (LPG),Jun,-1.238
+PHILIPPINES,Gas (LPG),Jul,-1.099
+PHILIPPINES,Gas (LPG),Aug,0.301
+PHILIPPINES,Gas (LPG),Sep,0.914
+PHILIPPINES,Gas (LPG),Oct,2.794
+PHILIPPINES,Gas (LPG),Nov,1.063
+PHILIPPINES,Gas (LPG),Dec,-0.348
+PHILIPPINES,Internet,Jan,0.058
+PHILIPPINES,Internet,Feb,0.162
+PHILIPPINES,Internet,Mar,0.202
+PHILIPPINES,Internet,Apr,0.084
+PHILIPPINES,Internet,May,0.06
+PHILIPPINES,Internet,Jun,0.081
+PHILIPPINES,Internet,Jul,0.299
+PHILIPPINES,Internet,Aug,0.028
+PHILIPPINES,Internet,Sep,0.015
+PHILIPPINES,Internet,Oct,0.045
+PHILIPPINES,Internet,Nov,0.118
+PHILIPPINES,Internet,Dec,0.087
+PHILIPPINES,Appliance repair,Jan,0.36
+PHILIPPINES,Appliance repair,Feb,0.241
+PHILIPPINES,Appliance repair,Mar,0.057
+PHILIPPINES,Appliance repair,Apr,0.136
+PHILIPPINES,Appliance repair,May,0.177
+PHILIPPINES,Appliance repair,Jun,0.094
+PHILIPPINES,Appliance repair,Jul,0.231
+PHILIPPINES,Appliance repair,Aug,0.223
+PHILIPPINES,Appliance repair,Sep,0.152
+PHILIPPINES,Appliance repair,Oct,0.175
+PHILIPPINES,Appliance repair,Nov,0.113
+PHILIPPINES,Appliance repair,Dec,0.072
+PHILIPPINES,Restock (cleaning),Jan,0.385
+PHILIPPINES,Restock (cleaning),Feb,0.371
+PHILIPPINES,Restock (cleaning),Mar,0.317
+PHILIPPINES,Restock (cleaning),Apr,0.24
+PHILIPPINES,Restock (cleaning),May,0.222
+PHILIPPINES,Restock (cleaning),Jun,0.276
+PHILIPPINES,Restock (cleaning),Jul,0.316
+PHILIPPINES,Restock (cleaning),Aug,0.306
+PHILIPPINES,Restock (cleaning),Sep,0.26
+PHILIPPINES,Restock (cleaning),Oct,0.234
+PHILIPPINES,Restock (cleaning),Nov,0.282
+PHILIPPINES,Restock (cleaning),Dec,0.197
+PHILIPPINES,Courier / delivery,Jan,0.107
+PHILIPPINES,Courier / delivery,Feb,0.001
+PHILIPPINES,Courier / delivery,Mar,0.0
+PHILIPPINES,Courier / delivery,Apr,0.001
+PHILIPPINES,Courier / delivery,May,0.011
+PHILIPPINES,Courier / delivery,Jun,0.011
+PHILIPPINES,Courier / delivery,Jul,0.021
+PHILIPPINES,Courier / delivery,Aug,0.02
+PHILIPPINES,Courier / delivery,Sep,0.068
+PHILIPPINES,Courier / delivery,Oct,0.324
+PHILIPPINES,Courier / delivery,Nov,0.331
+PHILIPPINES,Courier / delivery,Dec,0.012

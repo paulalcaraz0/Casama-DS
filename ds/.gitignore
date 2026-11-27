@@ -1,0 +1,5 @@
+# Raw Kaggle download (re-create with: python ds/fetch_data.py)
+data/raw/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
