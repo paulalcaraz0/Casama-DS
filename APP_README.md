@@ -9,10 +9,6 @@
 [![Tests](https://img.shields.io/badge/Tests-78%20Passed-success)](#-testing--analysis)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20macOS%20%7C%20Web-navy)](#)
 
-> 📊 **Data Science Final Project:** the full documentation for *Casama Bill Pulse*
-> (dataset, methodology, findings and recommendations) is in
-> [`data_science/README.md`](data_science/README.md).
-
 ---
 
 ## 📱 Overview
